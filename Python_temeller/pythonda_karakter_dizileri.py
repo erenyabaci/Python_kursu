@@ -22,4 +22,5 @@ print(selamlama[0:48:2])# burda 0 dan başla 48'e kadar 48 dahil değil 2 şer 2
 
 print(selamlama[len(selamlama)-6]) # der isek sondan 6. karakteri göser demek
 
+print(selamlama[::-1]) #dersek eğer seçilen değişkeni tersen yazdırmış oluruz 
 
